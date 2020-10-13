@@ -39,6 +39,8 @@
   DEFINE NETWORK_ISCSI_ENABLE     = FALSE
   DEFINE SECURE_BOOT_ENABLE       = FALSE
 
+# This is comment to add a conflict
+
 [SkuIds]
   0|DEFAULT
 
